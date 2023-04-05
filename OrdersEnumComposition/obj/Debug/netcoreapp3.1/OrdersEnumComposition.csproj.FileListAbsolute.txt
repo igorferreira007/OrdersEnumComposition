@@ -1,0 +1,14 @@
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.exe
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.deps.json
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.runtimeconfig.json
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.runtimeconfig.dev.json
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.dll
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\bin\Debug\netcoreapp3.1\OrdersEnumComposition.pdb
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.csproj.AssemblyReference.cache
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.AssemblyInfo.cs
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.dll
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.pdb
+C:\Users\Igor\Documents\Udemy C#\OrdersEnumComposition\OrdersEnumComposition\obj\Debug\netcoreapp3.1\OrdersEnumComposition.genruntimeconfig.cache
